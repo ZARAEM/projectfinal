@@ -1,1 +1,3 @@
-# Final Project Screenshots of Game:
+# Final Project
+
+Screenshots:
